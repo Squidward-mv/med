@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Quiza Pro";
+  src: local("Quiza Pro Italic"), local("QuizaPro-Italic"),
+    url("Quizaproitalic.woff2") format("woff2"),
+    url("Quizaproitalic.woff") format("woff"),
+    url("Quizaproitalic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Quiza Pro";
+  src: local("Quiza Pro Regular"), local("QuizaPro-Regular"),
+    url("Quizaproregular.woff2") format("woff2"),
+    url("Quizaproregular.woff") format("woff"),
+    url("Quizaproregular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}

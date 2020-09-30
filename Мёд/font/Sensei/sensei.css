@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Sensei";
+  src: local("Sensei Medium"), local("Sensei-Medium"),
+    url("Senseimedium.woff2") format("woff2"),
+    url("Senseimedium.woff") format("woff"),
+    url("Senseimedium.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
